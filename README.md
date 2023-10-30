@@ -23,4 +23,4 @@
 - Feel free to reach out if you'd like to collaborate or if you just want to chat about documentation.
 - If you're interested in my work or looking for documentation insights, don't hesitate to drop me a message.
 
-📍 **Nantes, France
+📍 **Nantes, France**
