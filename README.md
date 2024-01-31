@@ -1,24 +1,21 @@
 # 👋 Hello, world!
 
-🌍 Based in Nantes, France, I am a **Technical Writer** with a flair for making the complex simple.
+🌍 Based in Nantes, France, I am a **Technical Writer** who loves making complicated things easy to understand.
 
 ## 📖 About Me
 
-- 🖋 I'm deeply passionate about creating clear, concise, and engaging documentation.
-  
-- 🎓 Learning enthusiast. My curiosity drives me to understand products deeply so that users don't have to.
-
-- 🛠 I'm well-versed in _docs-as-code_ tools. With tools like **Sphinx**, **git**, and **ReDoc**, I produce top-tier documentation that helps both users and developers grasp intricate products and services.
+- 🖋 I enjoy creating clear, concise, and engaging documentation to make techn more accessible and user-friendly.
+- 🛠 I'm well-versed in _docs-as-code_ workflows. Using tools like **Sphinx**, **git**, and **ReDoc**, I create documentation that helps users navigate products and services.
+- 🎓 I'm always learning.
 
 ## 📌 Skills & Tools
 
 - **Technical Writing** - Turning complex information into user-friendly content.
-- **Markdown** - Crafting structured and stylized documents effortlessly.
-- **Sphinx** - Creating robust documentation structures.
-- **git** - Version control for collaborative and continuous documentation.
-- **ReDoc** - Making API documentation interactive and intuitive.
+- **Markdown** - Creating easy-to-read documentation.
+- **git** - Controling versions for collaborative and continuous documentation.
+- **ReDoc** - Making API documentation interactive and easy to use.
 
 ## 🤝 Let's Connect!
 
-- Feel free to reach out if you'd like to collaborate or if you just want to chat about documentation.
-- If you're interested in my work or looking for documentation insights, don't hesitate to drop me a message.
+- Reach out if you want to chat or work together.
+- Got questions about my work? Send me a message!
