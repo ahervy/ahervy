@@ -4,18 +4,10 @@
 
 ## 📖 About Me
 
-- 🖋 I enjoy creating clear, concise, and engaging documentation to make techn more accessible and user-friendly.
-- 🛠 I'm well-versed in _docs-as-code_ workflows. Using tools like **Sphinx**, **git**, and **ReDoc**, I create documentation that helps users navigate products and services.
-- 🎓 I'm always learning.
-
-## 📌 Skills & Tools
-
-- **Technical Writing** - Turning complex information into user-friendly content.
-- **Markdown** - Creating easy-to-read documentation.
-- **git** - Controling versions for collaborative and continuous documentation.
-- **ReDoc** - Making API documentation interactive and easy to use.
+I help users navigate complex technical concepts with clear, concise, and engaging documentation. I'm passionate about making information accessible and user-friendly. My expertise in docs-as-code workflows ensures efficient and collaborative documentation creation.
 
 ## 🤝 Let's Connect!
 
-- Reach out if you want to chat or work together.
-- Got questions about my work? Send me a message!
+- **Have a project in mind?** I'd love to hear about it! Get in touch for a chat about your technical writing needs.
+- **Questions about my work?** Feel free to send me a message!
+
