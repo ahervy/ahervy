@@ -1,13 +1,12 @@
 # 👋 Hello, world!
 
-🌍 Based in Nantes, France, I am a **Technical Writer** who loves making complicated things easy to understand.
+🌍 My name is Arnaud Hervy. I'm a **Technical Writer** and UX Writer.
 
 ## 📖 About Me
 
-I help users navigate complex technical concepts with clear, concise, and engaging documentation. I'm passionate about making information accessible and user-friendly. My expertise in docs-as-code workflows ensures efficient and collaborative documentation creation.
+I take complicated tech stuff and explain it in a way that’s easy to understand. I just obtained my certification in UX writing to further enhance the user experience through helpful conversations.
 
 ## 🤝 Let's Connect!
 
-- **Have a project in mind?** I'd love to hear about it! Get in touch for a chat about your technical writing needs.
+- **Interested in working together?** I'd love to hear about your project! Let's talk about your technical writing needs.
 - **Questions about my work?** Feel free to send me a message!
-
