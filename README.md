@@ -2,6 +2,8 @@
 
 I explain products and services in a way that's easy to understand. With my new certification in UX writing, I can now further enhance the user experience by creating engaging and helpful conversations.
 
+➡️ [Learn more about my technical writing skills](https://arnaudhervy.com/).
+
 ## 🤝 Let's Connect
 
 - **Interested in working together?** I'd love to hear about your project. Let's talk about your technical writing needs.
