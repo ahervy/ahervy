@@ -1,10 +1,16 @@
-# 👋 Hi! My name is Arnaud, and I'm a Technical Writer
+# 👋 Hi, I'm Arnaud — Technical Writer
 
-I explain products and services in a way that's easy to understand. With my new certification in UX writing, I can now further enhance the user experience by creating engaging and helpful conversations.
+I focus on API and developer platform documentation.
 
-➡️ [Learn more about my technical writing skills](https://arnaudhervy.com/).
+I help developers go from first request to production faster by improving:
+- onboarding
+- API reference structure
+- complex technical workflows
 
-## 🤝 Let's Connect
+## 🤝 Let's work together
 
-- **Interested in working together?** I'd love to hear about your project. Let's talk about your technical writing needs.
-- **Questions about my work?** Feel free to send me a message.
+- Working on API documentation, onboarding, or developer experience?
+- Need clearer docs for complex workflows, auth flows, or migrations?
+
+➡️ **Get in touch:** [https://arnaudhervy.com/contact](https://arnaudhervy.com/contact)  
+➡️ **Portfolio:** [https://arnaudhervy.com](https://arnaudhervy.com)
